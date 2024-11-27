@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer and technology
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me naveenkenchgunde10@gmail.com
+- 📫 How to reach me kenchgundenaveen10@gmail.com
 
 <!---
 NAVEEN10032004K/NAVEEN10032004K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
