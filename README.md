@@ -20,17 +20,6 @@
 
 ---
 
-### 📊 Live Status
-![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAVEEN10032004K&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NAVEEN10032004K&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=NAVEEN10032004K&theme=tokyonight)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=NAVEEN10032004K&label=Profile%20Views&color=blue&style=flat)
-
----
-
 ### 📫 How to Reach Me
 - ✉️ Email: **kenchgundenaveen10@gmail.com**  
 - 💼 [LinkedIn](#) _(add your link if you have one)_  
