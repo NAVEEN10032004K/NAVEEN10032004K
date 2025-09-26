@@ -22,7 +22,7 @@
 
 ### 📫 How to Reach Me
 - ✉️ Email: **kenchgundenaveen10@gmail.com**  
-- 💼 [LinkedIn](#) _(https://www.linkedin.com/in/naveen-kenchgunde/)_ 
+- 💼 LinkedIn: **https://www.linkedin.com/in/naveen-kenchgunde/**
 
 
 ---
